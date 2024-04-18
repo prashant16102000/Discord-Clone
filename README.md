@@ -6,4 +6,5 @@
 
 📌 Tech Stack HTML CSS TailwindCSS
 
-📬 Connect With Me LinkedIn - Prashant Yadav Twitter - Prashant
+📬 Connect With Me LinkedIn - Prashant Yadav[https://www.linkedin.com/in/prashant-yadav-1610/]
+    Twitter - [https://twitter.com/Prashant_12160]
